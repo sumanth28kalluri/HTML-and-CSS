@@ -19,6 +19,8 @@ Git Commands to push the code to remote repository
 10. git clone - will fetch your remote repo to your local folder
 11. git checkout -b feature/branchname - to create a new branch
 12. git branch
+13. git branch -d
+
 
 git config --global --remove-section user  - To remove global name and email 
 
